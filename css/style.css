@@ -26,6 +26,7 @@ h1,h2,h3,h4,h5,h6,p{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    width: 100%;
 }
 .logo{
     width: 24%;
@@ -161,6 +162,7 @@ h1,h2,h3,h4,h5,h6,p{
     background-size: cover;
     padding-bottom: 0;
     line-height: 0;
+    width: 100%;
 }
 .apuestaText h4{
     font-family: "Raleway", serif;
@@ -265,6 +267,7 @@ h1,h2,h3,h4,h5,h6,p{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    width: 100%;
 }
 
 #contamos h2{
@@ -378,6 +381,7 @@ h1,h2,h3,h4,h5,h6,p{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    width: 100%;
 }
 .contactContent{
     margin-left: auto;
@@ -487,6 +491,7 @@ h1,h2,h3,h4,h5,h6,p{
     padding-top: 50px;
     padding-bottom: 25px;
     background: #4B0088;
+    width: 100%;
 }
 .flex_one{
     width: 30%;
@@ -562,6 +567,7 @@ h1,h2,h3,h4,h5,h6,p{
     background: #38227B;
     padding-top: 23px;
     padding-bottom: 20px;
+    width: 100%;
 }
 .linkFlex{
     display: flex;
@@ -580,6 +586,7 @@ h1,h2,h3,h4,h5,h6,p{
     padding-top: 36px;
     padding-bottom: 15px;
     background: #22036F;
+    width: 100%;
 }
 .footerContent{
     text-align: center;
